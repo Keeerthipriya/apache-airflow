@@ -1,6 +1,6 @@
 ## Table of Contents
 
-- [Course Structure](#course-structure)
+- [Apache Airflow Structure](#course-structure)
 - [Getting Started](#getting-started)
 - [Running with Docker Compose](#running-with-docker-compose)
 - [DAGs Overview](#dags-overview)
